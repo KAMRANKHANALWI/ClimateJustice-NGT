@@ -55,4 +55,4 @@ This Python script is designed to extract case details from [National Green Trib
 
 
 ## Support and Assistance
-If you encounter any difficulties during the process of downloading dependencies or executing the Python scripts, feel free to reach out for assistance. You can contact me via email at [khankamranalwi@gmail.com](mailto:khankamranalwi@gmail.com) or message me on WhatsApp at [+91 9304816286](https://wa.me/919304816286). I'm here to help you resolve any issues and ensure a smooth experience with the setup and usage of the provided scripts.
+If you encounter any difficulties during the process of downloading dependencies or executing the Python scripts, feel free to reach out for assistance. You can contact me via [email](mailto:khankamranalwi@gmail.com) or message me on [WhatsApp](https://wa.me/919304816286). I'm here to help you resolve any issues and ensure a smooth experience with the setup and usage of the provided scripts.
